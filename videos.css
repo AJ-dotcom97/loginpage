@@ -1,0 +1,35 @@
+body{
+    background-image: url("blueee.jpeg");
+    background-position: center;
+    background-repeat: no-repeat;  
+    background-size: cover;
+}
+
+li {
+    margin: 45px;
+    color: white 
+}
+
+.lastname{
+    text-transform: uppercase;
+}
+
+div{
+    text-align: center;
+    background-color: rgb(0, 0, 0) transparent;
+    margin: 100px;
+    border-radius: 20px;
+    box-shadow: 3px 3px 10px 10px rgb(35, 32, 32);
+    padding: 1rem;
+}
+
+h2{
+    color: rgb(24, 39, 151);
+}
+
+.white{
+    color: rgb(24, 39, 151);
+    border: solid;
+    padding: 10px;
+    border-radius: 5px;
+}

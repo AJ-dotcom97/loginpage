@@ -1,0 +1,70 @@
+.container{
+    max-width: 50%;
+    margin: auto;
+    margin-top: 85px;
+    margin-right: 200px;
+}
+
+form{
+    max-width: 50%;
+    padding: 30px;
+    background-size: cover;
+    text-align: center;
+    border-radius: 5px;
+    box-shadow: 3px 3px 10px 10px rgb(159, 148, 148);
+    backdrop-filter: blur(7px);
+    -webkit-backdrop-filter: blur(7px);
+}
+
+input{
+    margin: 3%;
+    padding: 3%;
+    background-color: transparent;
+    border: 2px solid;
+    border-color: white;   
+    border-top: none;
+    border-right: none;
+    border-left: none;
+    width: 80%;
+    padding-bottom: 1%;
+}
+
+input[type="submit"]{
+    color: white;
+    width: 60%;
+    margin: 1rem;
+    padding: 2%;
+    text-align: center;
+    border: 3px solid white;
+    border-radius: 10px;
+    background-color: transparent;
+}
+
+input[type="placeholder"]{
+    color: white;
+}
+
+h2{
+    color: white;
+}
+
+.link{
+    display:flex;
+    justify-content: space-around;
+}
+
+p{
+    font-size: 10px;
+}
+
+*{
+    text-decoration: none;
+    color: white;
+}
+
+
+body{
+    background-image: url(burger.jpg);
+    background-size: cover;
+
+}

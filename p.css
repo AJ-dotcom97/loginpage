@@ -1,0 +1,29 @@
+body{
+    background-color: goldenrod;
+}
+
+.main{
+    width: 30%;
+    background-color: white;
+    border-radius: 10px;
+}
+
+img{
+    max-width: 90%;
+    border-radius: 10px;
+    margin-left: 5%;
+    margin-top: 5%;
+}
+
+.small{
+    background-color: rgb(18, 95, 203);
+    width: 20%;
+    color: white;
+    text-align: center;
+    margin-left: 5%;
+    border-radius: 3px;
+}
+
+h4{
+    font-style: bold;
+}
